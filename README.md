@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: N
 
-I like to:
+I like to: Fiddle with C
 
-I'm learning:
+I'm learning: CSS
 
 ```
 
